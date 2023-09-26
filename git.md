@@ -37,3 +37,11 @@ ssh -T git@github.com
 
 
 
+## 3. 查看远端地址
+
+```shell
+git remote -v
+# origin	git@github.com:BeancurdV/MyDictionary.git (fetch)
+# origin	git@github.com:BeancurdV/MyDictionary.git (push)
+```
+
